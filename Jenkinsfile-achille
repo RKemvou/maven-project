@@ -1,4 +1,4 @@
-[5:47 PM, 5/22/2022] Mr Eric: pipeline {
+pipeline {
     agent any
    
    environment {
